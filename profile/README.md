@@ -2,7 +2,7 @@
 
 ### A Era Sintética chegou. O tabuleiro virou.
 
-Studio de IA que constrói studios. Não é curso, é arquitetura de pensamento.
+Studio de IA que constrói studios. Arquitetura de pensamento.
 As cartas vêm de fora, o deck é seu.
 
 - 🌐 [sapiensinteticos.com](https://sapiensinteticos.com)
