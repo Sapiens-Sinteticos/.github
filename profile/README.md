@@ -7,6 +7,8 @@ As cartas vêm de fora, o deck é seu.
 
 - 🌐 [sapiensinteticos.com](https://sapiensinteticos.com)
 - 🔧 [aitag.app](https://aitag.app)
+- 🪐 [inhabitants.zone](https://inhabitants.zone)
+- 💜 [helenai.wtf](https://helenai.wtf)
 
 Borderless Build · acesso por convite.
 Se ressoa, pede um convite. Se houver sintonia, a gente conversa.
